@@ -13,3 +13,12 @@ Docker, Linux
 
 ## Инструкции по запуску
 1. git clone ...
+
+## Команда
+Azema Toktosunova
+
+## Стек технологий
+Python
+## Инструкции по запуску
+docker-compose up
+
